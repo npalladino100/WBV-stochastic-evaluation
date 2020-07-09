@@ -1,4 +1,4 @@
-This system generates and delivers signals to a vibrating platform, which are analyzed by accelerometers to determine the transmission distribution.
+These programs generate and deliver signals to a vibrating platform, which are analyzed by accelerometers to determine the transmission distribution.
 
 The WAV Generator program creates WAV files for a stochastic signal, which is passed through a 4th order Butterworth low pass filter with a cutoff frequency of 60 Hz.  In the first 5 minutes, the amplitude of the signal rises from zero to a level suitible for generating vibration in a metal platform.
 
