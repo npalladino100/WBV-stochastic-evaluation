@@ -8,7 +8,7 @@ port = 465
 smtp_server = "smtp.gmail.com"
 sender_email = "rpi652781@gmail.com"
 receiver_email = "pimonitor7@gmail.com"
-password = "pi187256"
+password = "[Password Omitted]"
 context2 = ssl.create_default_context()
 
 ExecutionTime1 = "7:00"  # time of the day for signal to be played
